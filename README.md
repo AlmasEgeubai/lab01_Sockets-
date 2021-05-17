@@ -8,4 +8,4 @@
 
 ![screenshot1](screenshot1.png)
 
-![screenshot2](Screenshot2.png)
+![Screenshot2](Screenshot_2.png)
