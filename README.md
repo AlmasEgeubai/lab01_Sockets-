@@ -6,3 +6,6 @@
 
 ![primer](primer.PNG)
 
+![screenshot1](screenshot1.PNG)
+
+![screenshot2](screenshot2.PNG)
